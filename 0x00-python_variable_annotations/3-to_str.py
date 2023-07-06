@@ -3,6 +3,6 @@
 '''
 
 
-def to_str(n:float) -> str:
+def to_str(n: float) -> str:
     '''Converts n to a string'''
     return str(n)
